@@ -1,4 +1,4 @@
 # firstrepo
 Just a Basic Repository
 
-Jyothsna Eleti
+Name: Jyothsna Eleti
